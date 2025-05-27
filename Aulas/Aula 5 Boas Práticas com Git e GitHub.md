@@ -58,5 +58,3 @@ Nunca adicione arquivos como `.env` com senhas ou chaves de API. Use o `.gitigno
 ------
 
 Com estas práticas, seu fluxo de trabalho com Git e GitHub será mais limpo, produtivo e seguro. Parabéns por concluir o mini curso! 🎉
-
-Se quiser expandir o conteúdo, considere aulas sobre Git Flow, rebase, squash, tags e CI/CD.
