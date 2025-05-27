@@ -1,0 +1,9 @@
+Link para downlod do GIT https://git-scm.com/downloads
+
+O Git é um sistema de controle de versão distribuído, 
+ou seja, um software que rastreia alterações em arquivos ao longo do tempo, 
+permitindo que você volte a versões anteriores, 
+trabalhe em paralelo com outros e siga um histórico de mudanças.
+
+O Git Bash é um terminal para Windows que emula um ambiente de linha de comando semelhante ao Linux
+oferecendo uma experiência mais familiar para quem trabalha com Git e outras ferramentas de linha de comando do Unix.
