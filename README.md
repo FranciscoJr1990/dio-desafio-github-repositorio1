@@ -89,7 +89,7 @@ Terminal (bash, PowerShell, etc.)
 
 ## 📁 Estrutura deste Repositório
 
-mini-curso-git-github/
+dio-desafio-github-repositorio1/
 
   │
   
