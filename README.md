@@ -90,12 +90,19 @@ Terminal (bash, PowerShell, etc.)
 ## 📁 Estrutura deste Repositório
 
 mini-curso-git-github/
+
   │
+  
   ├── aulas/
+  
   ├── aula1-introducao.md
+  
   ├── aula2-comandos-basicos.md
+  
   ├── aula3-repositorios-remotos.md
+  
   ├── aula4-colaboracao.md
+  
   └── aula5-boas-praticas.md
 
 ## 🤝 Contribuições
