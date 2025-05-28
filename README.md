@@ -21,7 +21,7 @@ Utilizar fluxos de trabalho básicos e eficientes
 
 ## 🗂 Conteúdo Programático
 
-Aula 1: Introdução ao Git
+## Aula 1: Introdução ao Git
 
 O que é controle de versão?
 
@@ -31,7 +31,7 @@ Configurações iniciais
 
 Criando seu primeiro repositório local
 
-Aula 2: Comandos Básicos do Git
+## Aula 2: Comandos Básicos do Git
 
 git init, git status, git add, git commit
 
@@ -39,7 +39,7 @@ Histórico de commits com git log
 
 Voltando no tempo com git checkout e git reset
 
-Aula 3: Trabalhando com Repositórios Remotos
+## Aula 3: Trabalhando com Repositórios Remotos
 
 O que é o GitHub?
 
@@ -51,7 +51,7 @@ Conectando repositório local com remoto
 
 git push, git pull e git clone
 
-Aula 4: Colaboração e Pull Requests
+## Aula 4: Colaboração e Pull Requests
 
 Branches (git branch, git checkout -b)
 
@@ -61,7 +61,7 @@ Forks e Pull Requests
 
 Fluxo básico de contribuição
 
-Aula 5: Boas Práticas e Dicas
+## Aula 5: Boas Práticas e Dicas
 
 .gitignore
 
@@ -77,7 +77,7 @@ Conhecimento básico de terminal/linha de comando
 
 Conta no GitHub (gratuita)
 
-##💠 Ferramentas Utilizadas
+## 💠 Ferramentas Utilizadas
 
 Git
 
